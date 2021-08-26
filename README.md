@@ -6,4 +6,4 @@ Buit in Windows Forms C#
 
 
 # License
-* [MIT License](https://github.com/immuni-app/immuni-dashboard-data/blob/master/LICENSE)
+* [MIT License](LICENSE)
